@@ -7,4 +7,4 @@ class FoobarStore {
   }
 }
 
-export default alt.createStore(FoobarStore);
+export default alt.createStore(FoobarStore, 'FoobarStore');

@@ -1,3 +1,4 @@
+import 'babel/polyfill';
 import React from 'react';
 import AltContainer from 'alt/AltContainer';
 import FoobarStore from './FoobarStore';
