@@ -1,3 +1,4 @@
+import 'es5-shim/es5-shim';
 import 'babel/polyfill';
 import React from 'react';
 import AltContainer from 'alt/AltContainer';
